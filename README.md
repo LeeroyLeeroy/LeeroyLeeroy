@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LeeroyLeeroy
+- 👀 I’m interested in learning about coding, improving my maths skills, electronic music creation and chess skills.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on generative electronic music in Max MSP or Pure Data.
+- 📫 How to reach me: email is available on Soundcloud.
